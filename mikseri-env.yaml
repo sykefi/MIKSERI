@@ -1,0 +1,21 @@
+name: mikseri
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - matplotlib
+  - geopandas
+  - geojson
+  - pysal
+  - mapclassify
+  - pyrosm
+  - geopy
+  - contextily
+  - pandana
+
+
+
+
