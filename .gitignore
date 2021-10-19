@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+nodes_temp/*
+notebooks/my_proxy.py
+results/*
