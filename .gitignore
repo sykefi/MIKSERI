@@ -4,3 +4,5 @@ nodes_temp/*
 notebooks/my_proxy.py
 results/*
 OSM_protobuf/*
+notebooks/__pycache__/*
+notebooks/cache/*
