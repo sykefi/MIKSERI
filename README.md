@@ -1,6 +1,8 @@
-# MIKSERI service accessibility
+# MIKSERI OSM data and service accessibility
 
-This repository contains selected analysis scripts related to the [MIKSERI-project](https://www.syke.fi/fi-FI/Tutkimus__kehittaminen/Tutkimus_ja_kehittamishankkeet/Hankkeet/Lahiymparistojen_kehittaminen_kaupunkikudosten_ja_toiminnallisen_sekoittuneisuuden_nakokulmasta) conducted at the [Finnish Environment institute SYKE](https://www.syke.fi/en-US) in 2021. The MIKSERI-project (*Lähiympäristöjen kehittäminen kaupunkikudosten ja toiminnallisen sekoittuneisuuden näkökulmasta*) focuses on urban development from the perspective of functional mixes across urban fabrics. Final report of this project will be available online in Finnish [in here](https://www.syke.fi/fi-FI/Tutkimus__kehittaminen/Tutkimus_ja_kehittamishankkeet/Hankkeet/Lahiymparistojen_kehittaminen_kaupunkikudosten_ja_toiminnallisen_sekoittuneisuuden_nakokulmasta).
+This repository contains selected analysis scripts related to the [MIKSERI-project](https://www.syke.fi/fi-FI/Tutkimus__kehittaminen/Tutkimus_ja_kehittamishankkeet/Hankkeet/Lahiymparistojen_kehittaminen_kaupunkikudosten_ja_toiminnallisen_sekoittuneisuuden_nakokulmasta) conducted at the [Finnish Environment institute SYKE](https://www.syke.fi/en-US) in 2021. 
+
+The MIKSERI-project (*Lähiympäristöjen kehittäminen kaupunkikudosten ja toiminnallisen sekoittuneisuuden näkökulmasta*) focuses on urban development from the perspective of functional mixes across urban fabrics. Final report of this project will be available online in Finnish [in here](https://www.syke.fi/fi-FI/Tutkimus__kehittaminen/Tutkimus_ja_kehittamishankkeet/Hankkeet/Lahiymparistojen_kehittaminen_kaupunkikudosten_ja_toiminnallisen_sekoittuneisuuden_nakokulmasta).
 
 This repository contains code related to retrieving and analyzing service accessibility based on data from [OpenStreetMap](www.openstreetmap.org). For details related to other analysis presented in the report, please contact the authors directly. 
 
