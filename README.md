@@ -11,10 +11,10 @@ Maintainer: Vuokko Heikinheimo (firstname dot lastname at syke dot fi).
 
 ## Contents of this repository
 
-- [Jupyter notebooks for running the code](.notebooks/)
-- [PDF versions for viewing the code](.pdf/)
-- [Case area polygons](.case_areas/)
-- [.yaml file](.mikseri-env.yaml) for setting up a conda environment (experimental!)
+- [Jupyter notebooks for running the code](notebooks/)
+- [PDF versions for viewing the code](pdf/)
+- [Case area polygons](case_areas/)
+- [.yaml file](mikseri-env.yaml) for setting up a conda environment (experimental!)
 
  ## Re-use, Referencing & References
  
