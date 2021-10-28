@@ -16,8 +16,9 @@ Maintainer: Vuokko Heikinheimo (firstname dot lastname at syke dot fi).
 - [Case area polygons](.case_areas/)
 - [.yaml file](.mikseri-env.yaml) for setting up a conda environment (experimental!)
 
- ## Referencing & References
+ ## Re-use, Referencing & References
  
+You are free to reuse and re-mix the contents of this repository as you wish! 
 If using these results / approaches in further work, please refer to: 
  
 > Helminen et al. 2021. INSERT MIKSERI REPORT REFERENCE HERE
@@ -28,7 +29,10 @@ This repository builds upon several open source projects and tools, including:
 
 >Foti, F., Waddell, P., & Luxen, D. 2012. A generalized computational framework for accessibility: from the pedestrian to the metropolitan scale. In Proceedings of the 4th TRB Conference on Innovations in Travel Modeling. Transportation Research Board.
 
+Data credits:
 
+- Street network and service locations: [© OpenStreetMap contributors 2021](https://www.openstreetmap.org/copyright)
+- Admin areas: [open data by National Land Survey of Finland 2020](https://www.maanmittauslaitos.fi/en/opendata-licence-cc40), modified at SYKE. 
 
 ## Requirements
 
