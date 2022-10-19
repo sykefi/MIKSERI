@@ -21,7 +21,7 @@ Maintainer: Vuokko Heikinheimo (firstname dot lastname at syke dot fi).
 You are free to reuse and re-mix the contents of this repository as you wish! 
 If using these results / approaches in further work, please refer to: 
  
-> Helminen et al. 2021. INSERT MIKSERI REPORT REFERENCE HERE
+> Helminen, V., Heikinheimo, V., Tiitu, M., Nyberg, E.,  Rehunen, A., Kosonen, L. (2021). [Sekoittunut yhdyskuntarakenne ja sen mittarit. MIKSERI-hankkeen loppuraportti.](http://hdl.handle.net/10138/336103) Suomen ympäristökeskuksen raportteja 44/2021. Suomen ympäristökeskus.
 
 This repository builds upon several open source projects and tools, including:
 
